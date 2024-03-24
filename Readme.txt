@@ -1,8 +1,8 @@
-Source Folder & Game Folder
+Source Folder & Export game
 : https://drive.google.com/drive/folders/1q27xIRB-lLgma745qiJjSv3WZjVFAFql?usp=sharing
 
 Review
-: https://youtu.be/VgoqF2WCRdA
+: https://youtu.be/L4_HZ16pSCQ
 
 
 --- Game ---
